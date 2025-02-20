@@ -1,14 +1,14 @@
 # Hi there, I'm Igor!
 
-I am a undergraduate student in Statistics in Universidade de São Paulo, Brazil. I am a passionate soon-to-be Data Scientist with experience in extracting valuable insights from data.
+I am a undergraduate student in Statistics in Universidade de São Paulo, Brazil. I am a passionate Data Scientist with experience in extracting valuable insights from data and developing models to solve a broad range of problems.
 
 My expertise lies in machine learning, statistical analysis and data visualization. 
 
 
 ## 🚀 About Me
 <!--- - 🔭 I’m currently working on **[Your Current Project]** --->
-- 🌱 I’m currently refining my skills in **Programming** to create insightful statistical models
-- 💬 I'm interested in **Computer Vision/Machine Learning/Data Science/Statistics**
+- 🌱 I’m currently refining my skills in **Programming** to create and imeplement insightful statistical models
+- 💬 I'm interested in **Computer Vision/Machine Learning/Data Science/Statistics/Audio Signal Processing**
 - 📫 How to reach me: igor.mchinen@gmail.com
 
 ## 🛠️ Languages and Tools
