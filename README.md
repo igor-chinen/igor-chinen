@@ -8,7 +8,7 @@ My expertise lies in machine learning, statistical analysis and data visualizati
 ## 🚀 About Me
 <!--- - 🔭 I’m currently working on **[Your Current Project]** --->
 - 🌱 I’m currently refining my skills in **Programming** to create and imeplement insightful statistical models
-- 💬 I'm interested in **Computer Vision/Machine Learning/Data Science/Statistics/Audio Signal Processing**
+- 💬 I'm interested in **Computer Vision/Machine Learning/Data Science/Statistics/Audio Signal Processing/Music**
 - 📫 How to reach me: igor.mchinen@gmail.com
 
 ## 🛠️ Languages and Tools
@@ -20,6 +20,8 @@ My expertise lies in machine learning, statistical analysis and data visualizati
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
