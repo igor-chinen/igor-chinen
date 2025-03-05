@@ -1,6 +1,6 @@
 # Hi there, I'm Igor!
 
-I am a undergraduate student in Statistics in Universidade de São Paulo, Brazil. I am a passionate Data Scientist with experience in extracting valuable insights from data and developing models to solve a broad range of problems.
+I am a undergraduate student in Statistics at the Universidade de São Paulo, Brazil. I am a passionate Data Scientist with experience in extracting valuable insights from data and developing models to solve a broad range of problems.
 
 My expertise lies in machine learning, statistical analysis and data visualization. 
 
